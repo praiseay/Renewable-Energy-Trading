@@ -5,3 +5,5 @@ L
 contracts/energy-credit.clar,f/c/fce8ab46441d88ed32f324fd52f905b5a4c53488
 K
 tests/energy-credit.test.ts,3/0/30eba89a91d3e23c9eeacbeee7b58723c2723151
+P
+ contracts/automated-billing.clar,6/7/6738f7e63f0be1fbaf93164f639825cd30647b70
